@@ -1,0 +1,75 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    /* padding: 0 15%; */
+  }
+
+  .top{
+    padding: 0 18%;
+  }
+  
+  .top img {
+    padding-top: 10px;
+    float: left;
+    width: 120px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .naviall {
+    padding-left: 500px;
+    padding-top: 10px;
+
+  }
+  
+  .navi {
+    text-decoration: none;
+    color:black;
+  }
+  
+  .navi:hover {
+    text-decoration: underline;
+  }
+  
+  .navi {
+    font-size: 18px;
+    float: left;
+    padding: 50px 0px 50px 50px;
+  }
+
+  .box2{
+    margin-top:120px;
+  }
+
+  .form{
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+
+  .input{
+    width:400px;
+    height:40px;
+    size:20px;
+  }
+
+  .textarea{
+    width:400px;
+    height:150px;
+    size:20px;
+  }
+
+  .text{
+    font-size:14px;
+    font-weight: bold;
+  }
+
+  .btn{
+    width:80px;
+    height:30px;
+    color: white;
+    background-color:#3797a4;
+    cursor:pointer;
+    font-size:15px;
+  }
+
+  
